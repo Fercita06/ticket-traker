@@ -17,16 +17,16 @@ const Counter = ({tickets}) => {
       <div className="counter__controls">
         <button
           disabled={ count===0 ? true : false }
-          className="control__minus"
+          className="counter__control-minus"
           onClick={() => {
             counter(-1);
           }}
         >
           -
         </button>
-        <span className="control__value">{count}</span>
+        <span className="counter__control-value">{count}</span>
         <button
-          className="control__plus"
+          className="counter__control-plus"
           onClick={() => {
             counter(+1);
           }}
