@@ -1,62 +1,64 @@
-/*const arrayTeam = [
+export const team = [
   {
     id:1,
-    name:"Jhon Doe",
-    role:"manager",
+    name:"Braiden Bruce",
+    role:"Manager",
     tickets:0
   },
   {
     id:2,
-    name:"Jhon Doe",
-    role:"supervisor",
+    name:"Harrison Porter",
+    role:"Supervisor",
     tickets:0
   },
   {
     id:3,
-    name:"Jhon Doe",
-    role:"manager",
+    name:"David Schmidt",
+    role:"Manager",
     tickets:0
   },
   {
     id:4,
-    name:"Jhon Doe",
-    role:"developer",
+    name:"Kyra Cherry",
+    role:"Developer",
     tickets:0
   },
   {
     id:5,
-    name:"Jhon Doe",
-    role:"manager",
+    name:"Kyle Mcmillan",
+    role:"Manager",
     tickets:0
   },
   {
     id:6,
-    name:"Jhon Doe",
-    role:"supervisor",
+    name:"Molly Galvan",
+    role:"Senior developer",
     tickets:0
   },
   {
     id:7,
-    name:"Jhon Doe",
-    role:"manager",
+    name:"Aden Hogan",
+    role:"Senior manager",
     tickets:0
   },
   {
     id:8,
-    name:"Jhon Doe",
-    role:"developer",
+    name:"Samuel Williams",
+    role:"Junior developer",
     tickets:0
   },
   {
     id:9,
-    name:"Jhon Doe",
-    role:"manager",
+    name:"Roselyn Berger",
+    role:"Brand manager",
     tickets:0
   },
   {
     id:10,
-    name:"Jhon Doe",
-    role:"developer",
+    name:"Thomas Brown",
+    role:"Project manager",
     tickets:0
   },
 ];
+
+

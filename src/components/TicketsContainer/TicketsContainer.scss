@@ -3,6 +3,19 @@
   background-color: #FFBE0B;
   border-radius: 35px;
   text-align: center;
+  h2{
+    color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    padding-top: 30px;
+    border-bottom: 3px dotted;
+    width: 500px;
+    margin: 10px auto;
+    
+    
+  }
+
+
   .tickets-container{
       display:flex;
       flex-wrap: wrap;
@@ -12,12 +25,3 @@
   }
 }
 
-h2{
-  color: red;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 40px;
-  padding-top: 30px;
-  border-bottom: 3px dotted;
-  
-  
-}
