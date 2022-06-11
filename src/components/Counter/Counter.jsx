@@ -1,5 +1,7 @@
 import React,{ useState } from "react";
 import './Counter.scss';
+
+
 const Counter = ({tickets}) => {
   console.log(tickets);
   const [ count, setCount ] = useState(tickets);

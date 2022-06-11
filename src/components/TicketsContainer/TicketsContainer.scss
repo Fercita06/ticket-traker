@@ -9,7 +9,6 @@
     font-size: 60px;
     padding-top: 30px;
     border-bottom: 3px dotted;
-    width: 500px;
     margin: 10px auto;
     
     
@@ -19,6 +18,7 @@
   .tickets-container{
       display:flex;
       flex-wrap: wrap;
+      justify-content: center;
       gap:30px;
       max-width: 1100px;
       margin: 40px auto;
